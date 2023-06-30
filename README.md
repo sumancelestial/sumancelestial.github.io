@@ -1,5 +1,5 @@
 The projects I have contributed and participated:
-### Froala Editor:
+### Froala Editor
 
 Froala Editor is an enterprise solutions for web editor having 80k + NPM downloads per week last year
 
@@ -9,7 +9,7 @@ Froala Editor is an enterprise solutions for web editor having 80k + NPM downloa
 
 Used Technologies: JavaScript
 
-### Fusionchart's Vue plugin:
+### Fusionchart's Vue plugin
 
 Fusionchart provides beautiful data visualization with Chart, Maps, Grid, etc
 
@@ -34,7 +34,7 @@ SQL Diagnostic Manager Helps IT Teams Monitor SQL Server Activity
 
 This product is popular for source to innovative case management and return-to-work solutions.
 
-My Roles and Responsibilities
+**My Roles**
 
 - Analysis the requirements and suggest technology stacks
 - Lead the project and help other developers to achieve the goals
@@ -46,7 +46,7 @@ My Roles and Responsibilities
 
 Supply wisdom meets the challenge of increasing business disruption risk with an automated risk management solution
 
-My Roles and Responsibilities
+**My Roles**
 
 - Part of the development team on creating product called Atlas
 
@@ -56,7 +56,7 @@ Used Technologies: React and JavaScript
 
 Breakfront Equilibrium is ideally situated between design and accounting and brings your whole operation together in one integrated solution with powerful quoting, ordering, scheduling and process control features
 
-My Roles and Responsibilities
+**My Roles**
 
 - Develop Component and Fix the bugs
 
