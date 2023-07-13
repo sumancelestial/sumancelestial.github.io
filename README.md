@@ -1,4 +1,19 @@
 The projects I have contributed and participated:
+### Xray
+
+Unleash seamless test management within Jira for efficient software delivery
+
+**My Roles**  
+
+- Analysis the requirements and map it with the current state of the product
+- Prepare the delivery timeline and train the resources to achieve the goal
+- Gain the architectural understanding of the product
+- Lead the team, transfer knowledge and resolve the issue during the project time
+- Evaluate the requirements and assign the task to relative team members
+- Establish the bridge and work with different stakeholders
+  
+Used Technologies: React, NodeJS, MongoDB, JavaScript
+
 ### Froala Editor
 
 Froala Editor is an enterprise solutions for web editor having 80k + NPM downloads per week last year
@@ -9,21 +24,11 @@ Froala Editor is an enterprise solutions for web editor having 80k + NPM downloa
 
 Used Technologies: JavaScript
 
-### Fusionchart's Vue plugin
-
-Fusionchart provides beautiful data visualization with Chart, Maps, Grid, etc
-
-**My Roles**
-
-- Create Vue3 plugin for integration fusioncharts into Vue3
-
-Used Technologies: Vue3 and JavaScript
-
 ### SQL Diagnostic Manager
 
 SQL Diagnostic Manager Helps IT Teams Monitor SQL Server Activity
 
-- My Roles and Responsibilities
+**My Roles**
 - Analysis the requirements and participates on providing the estimations
 - Part of the core development team, create the feature that includes charts, grid, infinite loop and etc
 - Create the features for desktop and mobile browsers
@@ -61,16 +66,6 @@ Breakfront Equilibrium is ideally situated between design and accounting and bri
 - Develop Component and Fix the bugs
 
 Used Technologies: React and JavaScript
-
-### Exam pathfinder
-
-exampathfinder.com is a platform for students who can prepare the competitive exams.  This application lets admin create the quiz by selecting questions from question bank. Bulk importer helps admin to upload the multiple questions from a single excel file and uploaded questions will be saved into question bank. During uploading the file, user can review the questions on the editor.
-
-**My Roles**
-
-- Create JavaScript parser which would parse the multiple questions from Ms excel file and convert these into required question format, let’s say into multiple choice questions
-- Make Vue.js web editor by inheriting quill editor for reviewing the to-be uploaded questions. Create the feature by which admin can insert table and convert the math latex formula to math symbol in the editor
-- Apply security system using AWS cloud-front, which lets only authorize user can upload the files.
 
 ### Exam notifier
 
